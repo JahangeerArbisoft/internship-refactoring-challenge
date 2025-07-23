@@ -1,0 +1,7 @@
+[
+    {"name": "John Doe", "age": 25, "active": true, "score": 85},
+    {"name": "Jane Smith", "age": 17, "active": true, "score": 92},
+    {"name": "Bob Johnson", "age": 30, "active": false, "score": 78},
+    {"name": "Alice Brown", "age": 22, "active": true, "score": 88},
+    {"name": "Charlie Wilson", "age": 19, "active": true, "score": 95}
+] 
