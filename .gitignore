@@ -1,0 +1,13 @@
+# Information not to be committed!
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Sensitive config & secrets
+config/config.py
+*.log
+*.tmp
+secret_keys.txt
+
+
